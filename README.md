@@ -1,3 +1,5 @@
+PERSYARATAN
+
 Sebelum menjalankan aplikasi, pastikan sistem Anda memiliki:
 
 1. Java Development Kit (JDK) 21
@@ -27,4 +29,7 @@ Instalasi
 
 Konfigurasi
 1. Koneksikan Database
-   
+
+HASIL SCREENSHOT
+<img width="1918" height="1079" alt="Screenshot 2026-04-07 175210" src="https://github.com/user-attachments/assets/651cdfd2-58ef-4833-8893-88851a3a4a6f" />
+<img width="1918" height="1079" alt="Screenshot 2026-04-07 175210" src="https://github.com/user-attachments/assets/651cdfd2-58ef-4833-8893-88851a3a4a6f" />
